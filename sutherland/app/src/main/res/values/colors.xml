@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="opacitywhite">#78ffffff</color>
+    <color name="opawhite">#BFffffff</color>
+    <color name="loginback">#2e79bb</color>
+    <color name="linearsearchback">#F5F5F5</color>
+    <color name="list_group_title">#808080</color>
+    <color name="list_item_title">#AAAAAA</color>
+
+    <color name="group_divider_color">#80CBC4</color>
+
+    <color name="lime">#E6EE9C</color>
+    <color name="orange">#FFCC80</color>
+    <color name="grey">#B0BEC5</color>
+    <color name="purple">#B39DDB</color>
+    <color name="domain_color">#575757</color>
+    <color name="blue">#001F5F</color>
+    <color name="pink">#E9004C</color>
+</resources>

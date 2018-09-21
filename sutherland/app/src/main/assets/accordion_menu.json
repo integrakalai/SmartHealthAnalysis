@@ -1,0 +1,144 @@
+{
+    "modules": [
+                {
+                "title": "Notifications & Alerts",
+                "order": 1,
+                "icon": "alert_icon",
+                "items": [
+                          {
+                          "title": "Notifications",
+                          "order": 1
+                          },
+                          {
+                          "title": "Inbox",
+                          "order": 2
+                          },
+                          {
+                          "title": "Outbox",
+                          "order": 3
+                          },
+                          {
+                          "title": "Business Alerts",
+                          "order": 4
+                          }
+                          ]
+                },
+                {
+                "title": "Dashboard & Reports",
+                "order": 2,
+                "icon": "dashboard_icon",
+                "items": [
+                          {
+                          "title": "KPI Dashboard",
+                          "order": 1
+                          
+                          },
+                          {
+                          "title": "Transactions",
+                          "order": 2,
+                          "items": [
+                                    "Referral/Charges",
+                                    "Payments",
+                                    "Adjustments",
+                                    "Write-offs",
+                                    "Bad-Debts",
+                                    "Refunds"
+                                    ]
+                          },
+                          {
+                          "title": "Measures",
+                          "order": 3,
+                          "items": [
+                                    "GCR",
+                                    "NCR",
+                                    "AR Days",
+                                    "Outstanding AR"
+                                    ]
+                          },
+                          {
+                          "title": "Collection Analytics",
+                          "order": 4,
+                          "items": [
+                                    "Speed of Payment",
+                                    "Cash goal Vs Achieved",
+                                    "Liquidation"
+                                    ]
+                          },
+                          {
+                          "title": "Denials",
+                          "order": 5
+                          }
+                          ]
+                },
+                {
+                "title": "Settings",
+                "order": 3,
+                "icon": "settings_icon",
+                "items": [
+                          {
+                          "title": "Personalise your KPI Dashboard",
+                          "order": 1
+                          },
+                          {
+                          "title": "Manage Notifications",
+                          "order": 2
+                          },
+                          {
+                          "title": "Compliance Disclaimer",
+                          "order": 3
+                          },
+                          {
+                          "title": "Terms of Service",
+                          "order": 4
+                          }
+                          ]
+                },
+                {
+                "title": "Information",
+                "order": 3,
+                "icon": "information_icon",
+                "items": [
+                          {
+                          "title": "KPI Dashboard",
+                          "order": 1
+                          
+                          },
+                          {
+                          "title": "Transactions",
+                          "order": 2,
+                          "items": [
+                                    "Referral/Charges",
+                                    "Payments",
+                                    "Adjustments",
+                                    "Write-offs",
+                                    "Bad-Debts",
+                                    "Refunds"
+                                    ]
+                          },
+                          {
+                          "title": "Measures",
+                          "order": 3,
+                          "items": [
+                                    "GCR",
+                                    "NCR",
+                                    "AR Days",
+                                    "Outstanding AR"
+                                    ]
+                          },
+                          {
+                          "title": "Collection Analytics",
+                          "order": 4,
+                          "items": [
+                                    "Speed of Payment",
+                                    "Cash goal Vs Achieved",
+                                    "Liquidation"
+                                    ]
+                          },
+                          {
+                          "title": "Denials",
+                          "order": 5
+                          }
+                         ]
+                }
+                ]
+}
